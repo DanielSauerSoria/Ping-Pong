@@ -19,12 +19,15 @@ El juego permite elegir entre tres niveles de dificultad (Fácil, Medio y Difíc
 A continuación se muestran algunas capturas de pantalla del juego en diferentes estados:
 
 1. **Pantalla de inicio con opciones de dificultad**
+
    ![image](https://github.com/user-attachments/assets/23c7bf0e-08e7-4194-90e9-dfed1c463f10)
    
-2. **Juego en progreso**
+3. **Juego en progreso**
+
    ![image](https://github.com/user-attachments/assets/70844de3-3dfb-4ddc-97d7-fcd87d57005c)
 
-3. **Puntuación al final de una ronda**
+4. **Puntuación al final de una ronda**
+
    ![image](https://github.com/user-attachments/assets/a49cf17a-b9fd-4d34-8d8f-d504a2782709)
 
 ## Requisitos
