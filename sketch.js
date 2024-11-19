@@ -31,14 +31,14 @@ let sonidoColision;
 let sonidoGol;
 
 function preload() {
-    fondo = loadImage("fondo2.png"); // Carga la imagen de fondo
-    barraJugador = loadImage("barra1.png"); // Imagen de la raqueta del jugador
-    barraComputadora = loadImage("barra2.png"); // Imagen de la raqueta de la computadora
-    bola = loadImage("bola.png"); // Imagen de la pelota
+    fondo = loadImage("Sprites/fondo2.png"); // Carga la imagen de fondo
+    barraJugador = loadImage("Sprites/barra1.png"); // Imagen de la raqueta del jugador
+    barraComputadora = loadImage("Sprites/barra2.png"); // Imagen de la raqueta de la computadora
+    bola = loadImage("Sprites/bola.png"); // Imagen de la pelota
   
     // Carga de los sonidos
-    sonidoColision = loadSound('bones.wav'); // Sonido para las colisiones con raquetas
-    sonidoGol = loadSound('gol.wav'); // Sonido para cuando hay gol
+    sonidoColision = loadSound('Sprites/bones.wav'); // Sonido para las colisiones con raquetas
+    sonidoGol = loadSound('Sprites/gol.wav'); // Sonido para cuando hay gol
 }
 
 function setup() {
